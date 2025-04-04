@@ -4,6 +4,8 @@ import api from "../../services/api"
 
 import { Title, Container, Form, ContainerInputs, InputLabel, Input, } from "./styles"
 
+const baseURL = "https://node-js-virid-one.vercel.app"
+
 
 import Button from "../../components/Button"
 import TopBackground from "../../components/TopBackground"
